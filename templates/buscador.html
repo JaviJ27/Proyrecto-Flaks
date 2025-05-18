@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <h2 class="text-center mb-4">Buscar Videojuegos</h2>
+        <form method="POST" action="{{ url_for('lista') }}">
+            <div class="form-group">
+                <label for="query">Título:</label>
+                <input type="text" name="query" class="form-control" placeholder="Introduce el inicio del título...">
+            </div>
+
+            <div class="form-group">
+                <label for="genero">Género:</label>
+                <select name="genero" class="form-control">
+                    <option value="">-- Todos los géneros --</option>
+                    {% for genero in generos %}
+                        <option value="{{ genero }}">{{ genero }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Buscar</button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}

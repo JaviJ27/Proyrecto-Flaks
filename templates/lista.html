@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <h2 class="text-center mb-4">Resultados de la búsqueda</h2>
+    {% if resultados %}
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Genero</th>
+                <th>Detalles</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for juego in resultados %}
+            <tr>
+                <td>{{ juego.titulo }}</td>
+                <td>
+                    {{ juego.genero }}<br>
+                </td>
+                <td>
+                    <a href="{{ url_for('detalles', videojuego_id=juego.id) }}" class="btn btn-primary">Ver más</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <p>Error 404: No se encontraron videojuegos que coincidan con esa búsqueda.</p>
+    <a href="{{ url_for('buscador') }}" class="btn btn-secondary">Volver al buscador</a>
+    {% endif %}
+</div>
+{% endblock %}

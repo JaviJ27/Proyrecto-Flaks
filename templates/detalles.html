@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <h2 class="text-center">{{ juego.titulo }}</h2>
+    <table class="table table-bordered mt-4">
+        <tr><th>Género</th><td>{{ juego.genero }}</td></tr>
+        <tr><th>Plataformas</th><td>{{ juego.plataformas|join(", ") }}</td></tr>
+        <tr><th>Fecha de lanzamiento</th><td>{{ juego.fecha_lanzamiento }}</td></tr>
+        <tr><th>Precio</th><td>{{ juego.precio }} €</td></tr>
+        <tr><th>Multijugador</th><td>{{ 'Sí' if juego.multijugador else 'No' }}</td></tr>
+        <tr><th>Clasificación PEGI</th><td>{{ juego.clasificacion_pegi }}</td></tr>
+        <tr><th>Distribuidor</th><td>{{ juego.distribuidor }}</td></tr>
+        <tr><th>Valoración</th><td>{{ juego.valoracion }}</td></tr>
+        <tr><th>Disponible</th><td>{{ 'Sí' if juego.disponible else 'No' }}</td></tr>
+    </table>
+    <a href="{{ url_for('buscador') }}" class="btn btn-secondary">Volver al buscador</a>
+</div>
+{% endblock %}
