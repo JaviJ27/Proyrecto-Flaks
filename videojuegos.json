@@ -1,0 +1,673 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "genero": "Aventura",
+    "plataformas": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "fecha_lanzamiento": "2017-03-03",
+    "precio": 59.99,
+    "multijugador": false,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Nintendo",
+    "valoracion": 9.8,
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "titulo": "God of War Ragnarök",
+    "genero": "Acción",
+    "plataformas": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "fecha_lanzamiento": "2022-11-09",
+    "precio": 69.99,
+    "multijugador": false,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Sony Interactive Entertainment",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "titulo": "Elden Ring",
+    "genero": "RPG",
+    "plataformas": [
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "fecha_lanzamiento": "2022-02-25",
+    "precio": 59.99,
+    "multijugador": true,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Bandai Namco",
+    "valoracion": 9.7,
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "titulo": "Minecraft",
+    "genero": "Sandbox",
+    "plataformas": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2011-11-18",
+    "precio": 26.95,
+    "multijugador": true,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Mojang Studios",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "titulo": "Red Dead Redemption 2",
+    "genero": "Acción-Aventura",
+    "plataformas": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fecha_lanzamiento": "2018-10-26",
+    "precio": 59.99,
+    "multijugador": true,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Rockstar Games",
+    "valoracion": 9.6,
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "titulo": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "fecha_lanzamiento": "2015-05-19",
+    "precio": 49.99,
+    "multijugador": false,
+    "clasificacion_pegi": 18,
+    "distribuidor": "CD Projekt",
+    "valoracion": 9.4,
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "titulo": "Grand Theft Auto V",
+    "genero": "Acción",
+    "plataformas": [
+      "PC",
+      "PS3",
+      "PS4",
+      "PS5",
+      "Xbox 360",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2013-09-17",
+    "precio": 29.99,
+    "multijugador": true,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Rockstar Games",
+    "valoracion": 9.3,
+    "disponible": true
+  },
+  {
+    "id": 8,
+    "titulo": "Cyberpunk 2077",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2020-12-10",
+    "precio": 59.99,
+    "multijugador": false,
+    "clasificacion_pegi": 18,
+    "distribuidor": "CD Projekt",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 9,
+    "titulo": "Horizon Forbidden West",
+    "genero": "Aventura",
+    "plataformas": [
+      "PS4",
+      "PS5"
+    ],
+    "fecha_lanzamiento": "2022-02-18",
+    "precio": 69.99,
+    "multijugador": false,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Sony Interactive Entertainment",
+    "valoracion": 8.9,
+    "disponible": true
+  },
+  {
+    "id": 10,
+    "titulo": "Super Mario Odyssey",
+    "genero": "Plataformas",
+    "plataformas": [
+      "Nintendo Switch"
+    ],
+    "fecha_lanzamiento": "2017-10-27",
+    "precio": 59.99,
+    "multijugador": true,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Nintendo",
+    "valoracion": 9.7,
+    "disponible": true
+  },
+  {
+    "id": 11,
+    "titulo": "Call of Duty: Modern Warfare II",
+    "genero": "Multijugador",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2021-03-10",
+    "precio": 39.99,
+    "multijugador": false,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Distribuidor 11",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 12,
+    "titulo": "FIFA 23",
+    "genero": "Acción",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2022-04-10",
+    "precio": 49.99,
+    "multijugador": true,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Distribuidor 12",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 13,
+    "titulo": "Assassin's Creed Valhalla",
+    "genero": "Aventura",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2023-05-10",
+    "precio": 59.99,
+    "multijugador": false,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Distribuidor 13",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 14,
+    "titulo": "Resident Evil 4 Remake",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2024-06-10",
+    "precio": 69.99,
+    "multijugador": true,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Distribuidor 14",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 15,
+    "titulo": "Doom Eternal",
+    "genero": "Shooter",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2020-07-10",
+    "precio": 29.99,
+    "multijugador": false,
+    "clasificacion_pegi": 3,
+    "distribuidor": "Distribuidor 15",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 16,
+    "titulo": "Animal Crossing: New Horizons",
+    "genero": "Estrategia",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2021-08-10",
+    "precio": 39.99,
+    "multijugador": true,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Distribuidor 16",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 17,
+    "titulo": "Final Fantasy VII Remake",
+    "genero": "Multijugador",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2022-09-10",
+    "precio": 49.99,
+    "multijugador": false,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Distribuidor 17",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 18,
+    "titulo": "Sekiro: Shadows Die Twice",
+    "genero": "Acción",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2023-01-10",
+    "precio": 59.99,
+    "multijugador": true,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Distribuidor 18",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 19,
+    "titulo": "League of Legends",
+    "genero": "Aventura",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2024-02-10",
+    "precio": 69.99,
+    "multijugador": false,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Distribuidor 19",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 20,
+    "titulo": "Fortnite",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2020-03-10",
+    "precio": 29.99,
+    "multijugador": true,
+    "clasificacion_pegi": 3,
+    "distribuidor": "Distribuidor 20",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 21,
+    "titulo": "Apex Legends",
+    "genero": "Shooter",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2021-04-10",
+    "precio": 39.99,
+    "multijugador": false,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Distribuidor 21",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 22,
+    "titulo": "Overwatch 2",
+    "genero": "Estrategia",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2022-05-10",
+    "precio": 49.99,
+    "multijugador": true,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Distribuidor 22",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 23,
+    "titulo": "Starfield",
+    "genero": "Multijugador",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2023-06-10",
+    "precio": 59.99,
+    "multijugador": false,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Distribuidor 23",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 24,
+    "titulo": "Baldur's Gate 3",
+    "genero": "Acción",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2024-07-10",
+    "precio": 69.99,
+    "multijugador": true,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Distribuidor 24",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 25,
+    "titulo": "Street Fighter 6",
+    "genero": "Aventura",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2020-08-10",
+    "precio": 29.99,
+    "multijugador": false,
+    "clasificacion_pegi": 3,
+    "distribuidor": "Distribuidor 25",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 26,
+    "titulo": "Persona 5 Royal",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2021-09-10",
+    "precio": 39.99,
+    "multijugador": true,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Distribuidor 26",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 27,
+    "titulo": "Metroid Dread",
+    "genero": "Shooter",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2022-01-10",
+    "precio": 49.99,
+    "multijugador": false,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Distribuidor 27",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 28,
+    "titulo": "Fire Emblem Engage",
+    "genero": "Estrategia",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2023-02-10",
+    "precio": 59.99,
+    "multijugador": true,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Distribuidor 28",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 29,
+    "titulo": "Tears of the Kingdom",
+    "genero": "Multijugador",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2024-03-10",
+    "precio": 69.99,
+    "multijugador": false,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Distribuidor 29",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 30,
+    "titulo": "Splatoon 3",
+    "genero": "Acción",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2020-04-10",
+    "precio": 29.99,
+    "multijugador": true,
+    "clasificacion_pegi": 3,
+    "distribuidor": "Distribuidor 30",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 31,
+    "titulo": "It Takes Two",
+    "genero": "Aventura",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2021-05-10",
+    "precio": 39.99,
+    "multijugador": false,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Distribuidor 31",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 32,
+    "titulo": "Cuphead",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2022-06-10",
+    "precio": 49.99,
+    "multijugador": true,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Distribuidor 32",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 33,
+    "titulo": "Celeste",
+    "genero": "Shooter",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2023-07-10",
+    "precio": 59.99,
+    "multijugador": false,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Distribuidor 33",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 34,
+    "titulo": "Among Us",
+    "genero": "Estrategia",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2024-08-10",
+    "precio": 69.99,
+    "multijugador": true,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Distribuidor 34",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 35,
+    "titulo": "Hades",
+    "genero": "Multijugador",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2020-09-10",
+    "precio": 29.99,
+    "multijugador": false,
+    "clasificacion_pegi": 3,
+    "distribuidor": "Distribuidor 35",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 36,
+    "titulo": "Returnal",
+    "genero": "Acción",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2021-01-10",
+    "precio": 39.99,
+    "multijugador": true,
+    "clasificacion_pegi": 7,
+    "distribuidor": "Distribuidor 36",
+    "valoracion": 8.0,
+    "disponible": false
+  },
+  {
+    "id": 37,
+    "titulo": "Death Stranding",
+    "genero": "Aventura",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2022-02-10",
+    "precio": 49.99,
+    "multijugador": false,
+    "clasificacion_pegi": 12,
+    "distribuidor": "Distribuidor 37",
+    "valoracion": 8.5,
+    "disponible": true
+  },
+  {
+    "id": 38,
+    "titulo": "Control",
+    "genero": "RPG",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2023-03-10",
+    "precio": 59.99,
+    "multijugador": true,
+    "clasificacion_pegi": 16,
+    "distribuidor": "Distribuidor 38",
+    "valoracion": 9.0,
+    "disponible": true
+  },
+  {
+    "id": 39,
+    "titulo": "Alan Wake 2",
+    "genero": "Shooter",
+    "plataformas": [
+      "Switch",
+      "Mobile"
+    ],
+    "fecha_lanzamiento": "2024-04-10",
+    "precio": 69.99,
+    "multijugador": false,
+    "clasificacion_pegi": 18,
+    "distribuidor": "Distribuidor 39",
+    "valoracion": 9.5,
+    "disponible": true
+  },
+  {
+    "id": 40,
+    "titulo": "Monster Hunter Rise",
+    "genero": "Estrategia",
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "fecha_lanzamiento": "2020-05-10",
+    "precio": 29.99,
+    "multijugador": true,
+    "clasificacion_pegi": 3,
+    "distribuidor": "Distribuidor 40",
+    "valoracion": 8.0,
+    "disponible": false
+  }
+]
